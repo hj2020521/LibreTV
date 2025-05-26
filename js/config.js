@@ -109,6 +109,10 @@ const API_SITES = {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
         name: 'iKun资源'
     },
+    gaoqing: {
+        api: 'https://api.yzzy-api.com/api.php/provide/vod',
+        name: '高清资源'
+    },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
